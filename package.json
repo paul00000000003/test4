@@ -1,0 +1,24 @@
+{
+    "name": "jessica-michel-TDD-groentetuin",
+    "version": "1.0.0",
+    "description": "Level 30 | Last big exercise of testing with Jest",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "testWatch": "jest --watchAll"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wincacademy-exercises/jessica-michel-TDD-groentetuin.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wincacademy-exercises/jessica-michel-TDD-groentetuin/issues"
+    },
+    "homepage": "https://github.com/wincacademy-exercises/jessica-michel-TDD-groentetuin#readme",
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
+}
